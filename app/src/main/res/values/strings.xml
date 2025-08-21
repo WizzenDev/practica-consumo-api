@@ -1,0 +1,25 @@
+<resources>
+  <string name="app_name">Movie API</string>
+  <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla finibus, lectus ac iaculis lacinia, mauris magna mattis dui, non placerat lectus sem id purus. Integer velit ante, gravida non lacus in, venenatis sagittis justo. Phasellus a ex massa. Pellentesque blandit ornare venenatis. Proin aliquet feugiat risus, id malesuada neque faucibus ac. Etiam semper odio ipsum, sit amet rhoncus lectus dictum dapibus. Aliquam vitae tempor nunc. Pellentesque mattis diam a tincidunt tristique. Fusce faucibus laoreet efficitur. Quisque lacinia sodales tortor non suscipit. Mauris et augue nulla. Donec facilisis urna quis mi sodales malesuada. Aenean vel eros orci. Duis dapibus, ante eu condimentum egestas, ligula nunc semper est, id tempus nulla justo ac augue.</string>
+    <string name="details_backdrop">details backdrop</string>
+  <string name="fight_club">Fight Club</string>
+  <string name="accion_thriller_otros">Accion, Thriller, Otros</string>
+  <string name="_5_10">5/10</string>
+  <string name="vote_average">Vote average</string>
+  <string name="_12354">12354</string>
+  <string name="vote_count">Vote count</string>
+  <string name="favorites_icon">favorites icon</string>
+  <string name="synopsis">Synopsis</string>
+  <string name="peliculas_favoritas">Peliculas favoritas</string>
+  <string name="card_movie_image">card_movie_image</string>
+  <string name="cargando_por_favor_espera">Cargando, por favor espera…</string>
+  <string name="nuevos_estrenos">Nuevos Estrenos</string>
+  <string name="peliculas_populares">Peliculas populares</string>
+  <string name="mejores_puntuadas">Mejores puntuadas</string>
+  <string name="proximamente">Proximamente</string>
+  <string name="favorites_icon_desc">favorites icon</string>
+  <string name="hom_icon">hom icon</string>
+  <string name="_24_20_2525">24/20/2525</string>
+  <string name="_640146">640146</string>
+  <string name="todo">TODO</string>
+</resources>
